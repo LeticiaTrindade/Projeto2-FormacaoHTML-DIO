@@ -1,3 +1,13 @@
+# Projeto 2
+
+O seguinte projeto foi inspirado no site do [Hospital Virtude](https://hospitalvirtude.com.br/?gclid=Cj0KCQjwnf-kBhCnARIsAFlg493KYEirbn_aeoQwWYf5hVLojdIpMXVNQVqYPeHVGAWM-xb8X0fUPPoaArkXEALw_wcB)
+
+Você pode visualizar o projeto online [clicando aqui](https://leticiatrindade.github.io/Projeto2-FormacaoHTML-DIO/time.html)
+
+![image](https://github.com/LeticiaTrindade/Projeto2-FormacaoHTML-DIO/assets/61462194/23013dbc-2cd0-4185-8549-c60dde585bc3)
+
+
+
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
